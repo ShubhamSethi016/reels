@@ -1,0 +1,13 @@
+.feed-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    height: 90vh;
+}
+.feed-loader {
+    position: absolute;
+        left: 50%;
+        top: 50%;
+}
